@@ -9,7 +9,7 @@ The `Audio` folder is usually located inside the game image; you need to copy it
 
 5) Copy this folder to your PSP at `PSP/GAME/`.
 
-Re3PSPTioils: https://drive.google.com/file/d/1ydIyZ5pGFmYk9PqtPgeVSXDPWeDZvNSa/view?usp=sharing
+Re3PSPTools: https://drive.google.com/file/d/1ydIyZ5pGFmYk9PqtPgeVSXDPWeDZvNSa/view?usp=sharing
 
 1)Найти/купить копию GTA3(будьте внимательны ,в папке audio должны находиться файлы звуков mp3/wav и sfx.sdt и sfx.raw)
 Обычно папка Audio лежит внутри образа игры и её нужно скопировать в папку с игрой.
